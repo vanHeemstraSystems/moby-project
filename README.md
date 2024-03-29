@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+moby-project
+# Moby Project
 
-Based on "ABC" at https://www.abc.com/
+Based on "Moby Project" at https://mobyproject.org/
 
 ## 100 - Introduction
 
