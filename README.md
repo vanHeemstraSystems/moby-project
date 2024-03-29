@@ -1,7 +1,7 @@
 moby-project
 # Moby Project
 
-Based on "Moby Project" at https://mobyproject.org/
+Based on "Moby Project - An open framework to assemble specialized container systems without reinventing the wheel." at https://mobyproject.org/
 
 ## 100 - Introduction
 
